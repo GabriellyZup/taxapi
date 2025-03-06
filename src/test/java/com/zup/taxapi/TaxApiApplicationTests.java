@@ -1,4 +1,4 @@
-package com.zup.TaxAPI;
+package com.zup.taxapi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

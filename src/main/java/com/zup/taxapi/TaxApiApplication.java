@@ -1,4 +1,4 @@
-package com.zup.TaxAPI;
+package com.zup.taxapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
